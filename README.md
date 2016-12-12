@@ -6,6 +6,7 @@ download and extract the IonCube Loader PHP modules
 cd /var/www/html
 wget http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_lin_x86-64.tar.gz
 tar xvfz ioncube_loaders_lin_x86-64.tar.gz
+cd ioncube
 ```
 
 navigate over to server IP address + /ioncube/loader-wizard.php
