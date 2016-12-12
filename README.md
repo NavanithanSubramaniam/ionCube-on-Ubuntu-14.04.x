@@ -36,7 +36,7 @@ mv ioncube_loader_lin_5.5.so /usr/lib/php5/20121212
 
 create ioncube.ini in Ubuntu 14.04
 ```
-echo "zend_extension = /usr/lib/php5/20121212/ioncube_loader_lin_5.3.so" | sudo tee /etc/php5/mods-available/ioncube.ini
+echo "zend_extension = /usr/lib/php5/20121212/ioncube_loader_lin_5.5.so" | sudo tee /etc/php5/mods-available/ioncube.ini
 ```
 
 soft link to apache2
